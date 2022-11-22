@@ -1,0 +1,29 @@
+{
+  "name": "node-beginer",
+  "version": "1.0.0",
+  "description": "just learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lessons/file-system.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/da-da-yaaa/node-beginer.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "da-da-yaaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/da-da-yaaa/node-beginer/issues"
+  },
+  "homepage": "https://github.com/da-da-yaaa/node-beginer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
